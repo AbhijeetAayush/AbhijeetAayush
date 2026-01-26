@@ -53,14 +53,10 @@ Check out my repositories for real-world backend projects, system design pattern
 
 ## 📊 GitHub Stats (Fixed ✅)
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AbhijeetAayush&theme=tokyonight&hide_border=true)
 
 ### 📈 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijeetAayush&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetAayush&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
