@@ -1,87 +1,95 @@
-# Abhijeet Aayush
+<div align="center">
 
-**Software Engineer — Backend Systems, AI Agents & Distributed Infrastructure**
+# hey, I'm Abhijeet 👋
 
-I build backend systems that hold up under real production load — multi-tenant platforms, ETL pipelines, and AI agent infrastructure that ships at scale, not just demos. Currently engineering the backend and AI layer for a marketing analytics platform serving 25+ data sources at DVIO Digital.
+### I make backends that don't fall over at 3 AM
 
-📍 Pune, India · 📧 abhijeetayush899@gmail.com · 📱 +91 8905190044
-[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/abhijeetaayush) · [GitHub](https://github.com/AbhijeetAayush)
+</div>
 
----
+```
+> whoami
+backend engineer who got tired of "it works on my machine"
+and decided to make things work everywhere instead.
 
-## What I Work On
+> current_obsession
+teaching AI agents to talk to 25+ marketing platforms
+without writing 25+ if-else blocks for each one.
 
-- **Backend architecture** — FastAPI/Node services built on clean layering (Routes → Service → Repository), dependency inversion, and contracts that keep core logic decoupled from infra
-- **AI agent systems** — production agents on AWS Bedrock with RAG pipelines, text-to-SQL via Snowflake Cortex, and sandboxed code execution for live data analysis
-- **Data infrastructure** — Temporal + Airbyte ETL pipelines syncing 25+ marketing platforms into Snowflake with idempotent loads and automatic failure recovery
-- **Cloud-native systems** — serverless workflows, multi-tenant design, and CI/CD pipelines built for consistency across environments
-
-I care about systems that are easy to extend six months from now, not just easy to ship today — swappable contracts over hardcoded integrations, single-responsibility components, and infrastructure config kept out of application code.
-
----
-
-## Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Backend & AI**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Databases & Tooling**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+> status
+probably staring at a Temporal workflow that's stuck "pending"
+```
 
 ---
 
-## Experience Snapshot
+## the short version
 
-**Software Engineer · DVIO Digital** — *Jul 2025 – Present*
-Built the core backend for a multi-tenant marketing analytics platform (FastAPI, MySQL read replicas, Redis) achieving 99.9% uptime and a 35% cut in p95 latency. Designed a conversational AI agent on AWS Bedrock — text-to-SQL via Snowflake Cortex, RAG for documents, sandboxed Python for spreadsheets — replacing 25+ hardcoded connectors with one extensible path. Engineered ETL pipelines (Temporal + Airbyte) across 25+ marketing platforms with 99.5% reliability and an 80% drop in ops spend.
+I write code that's supposed to be boring — in the best way. No 3 AM pages, no "why is this query taking 4 seconds," no tangled spaghetti that only one person on the team understands. Just systems that quietly do their job and are easy enough to extend that the *next* engineer doesn't curse my name.
 
-**Backend Developer Intern · AntStack** — *Feb 2025 – May 2025*
-Built serverless automation on AWS Lambda and Step Functions, cutting manual ops effort by 45%. Set up CI/CD with GitHub Actions and Jest, increasing deployment frequency by 60%.
+Lately that means building AI agents that can actually be trusted in production — not chatbot demos, but systems handling real queries across real data, with the boring-but-critical stuff (caching, retries, fallbacks, observability) done right underneath.
 
 ---
 
-## Currently Exploring
+## things I've actually shipped
 
-- Agentic system design and tool orchestration at scale
-- Multi-tenant data architecture and query performance
-- Resilience patterns — circuit breakers, idempotent pipelines, graceful degradation
+🔌 **Replaced 25+ hardcoded API integrations with one extensible AI agent** — it converts plain English into SQL, reads your uploaded PDFs, and runs spreadsheet analysis in a sandbox, all through one swappable interface instead of a wall of custom connectors
+
+⚡ **Cut p95 latency by 35%** on a multi-tenant analytics platform by being stubborn about caching and read replicas
+
+🔧 **Built ETL pipelines that don't quietly lose your data** — 99.5% reliability across 25+ marketing platforms, with automatic recovery when things break (because things always break)
+
+🤖 **Made an AI agent fast enough that it doesn't feel like an AI agent** — sub-2-second time-to-first-token, real-time streaming, no awkward "thinking..." spinner of doom
 
 ---
 
-## Let's Connect
+## the toolbox
 
-[LinkedIn](https://www.linkedin.com/in/abhijeetaayush) · [Twitter](https://twitter.com/AbhijeetAayush) · abhijeetayush899@gmail.com
+<div align="center">
 
-If you're working on backend infra, AI agents, or distributed systems — I'm always up for a conversation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>the deeper cuts (click if you're into that)</b></summary>
+<br>
+
+**AI & Agents:** AWS Bedrock, AWS AgentCore, Snowflake Cortex Analyst, Qdrant, Langfuse, Vercel AI SDK
+
+**Data & Pipelines:** Temporal.io, Airbyte, DBT, SQLAlchemy, Alembic, PgBouncer
+
+**Infra:** Lambda, API Gateway, Step Functions, CloudFormation, SQS/SNS/SES, GitHub Actions, Cognito
+
+**Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
+
+**Frontend:** Next.js, Zustand, shadcn/ui, Tailwind
+
+</details>
+
+---
+
+## a philosophy, if you're still reading
+
+Most of what I build comes down to one question: **what happens when this needs to change?**
+
+New platform to integrate? New data source? New edge case nobody thought of? If the answer involves rewriting core logic, the design was wrong. So I lean hard into dependency inversion, swappable contracts, and single-responsibility everything — boring principles that make the difference between a system that grows gracefully and one that needs a rewrite every quarter.
+
+---
+
+<div align="center">
+
+📫 **abhijeetayush899@gmail.com** · [LinkedIn](https://www.linkedin.com/in/abhijeetaayush) · [Twitter](https://twitter.com/AbhijeetAayush)
+
+*if you're building something that involves AI agents actually working in production, let's talk*
+
+⭐ **starring my repos makes my CI pipelines pass faster (citation needed)**
+
+</div>
