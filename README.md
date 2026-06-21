@@ -1,95 +1,161 @@
 <div align="center">
 
-# hey, I'm Abhijeet 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=ABHIJEET%20AAYUSH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%20backend%20engineer%20%2F%2F%20AI%20agent%20architect%20%3E&descAlignY=55&descSize=18" width="100%"/>
 
-### I make backends that don't fall over at 3 AM
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<a href="https://www.linkedin.com/in/abhijeetaayush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/AbhijeetAayush"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:abhijeetayush899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=sudo+make+backends+great+again;teaching+AI+agents+to+talk+to+25%2B+platforms;temporal+workflow+stuck+in+%22pending%22...+again;git+commit+-m+%22it+works+on+my+machine%22;dependency+inversion+enjoyer+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
+```ascii
+   ┌─────────────────────────────────────────────────────┐
+   │  $ whoami                                            │
+   │  > backend engineer, allergic to 3AM pages           │
+   │                                                       │
+   │  $ cat current_focus.txt                             │
+   │  > production-grade AI agents that don't fall over   │
+   │  > under real traffic, real data, real edge cases     │
+   │                                                       │
+   │  $ ./run_tests.sh                                     │
+   │  > 99.9% uptime ✓  p95 latency -35% ✓  no regrets ✓   │
+   └─────────────────────────────────────────────────────┘
 ```
-> whoami
-backend engineer who got tired of "it works on my machine"
-and decided to make things work everywhere instead.
-
-> current_obsession
-teaching AI agents to talk to 25+ marketing platforms
-without writing 25+ if-else blocks for each one.
-
-> status
-probably staring at a Temporal workflow that's stuck "pending"
-```
 
 ---
-
-## the short version
-
-I write code that's supposed to be boring — in the best way. No 3 AM pages, no "why is this query taking 4 seconds," no tangled spaghetti that only one person on the team understands. Just systems that quietly do their job and are easy enough to extend that the *next* engineer doesn't curse my name.
-
-Lately that means building AI agents that can actually be trusted in production — not chatbot demos, but systems handling real queries across real data, with the boring-but-critical stuff (caching, retries, fallbacks, observability) done right underneath.
-
----
-
-## things I've actually shipped
-
-🔌 **Replaced 25+ hardcoded API integrations with one extensible AI agent** — it converts plain English into SQL, reads your uploaded PDFs, and runs spreadsheet analysis in a sandbox, all through one swappable interface instead of a wall of custom connectors
-
-⚡ **Cut p95 latency by 35%** on a multi-tenant analytics platform by being stubborn about caching and read replicas
-
-🔧 **Built ETL pipelines that don't quietly lose your data** — 99.5% reliability across 25+ marketing platforms, with automatic recovery when things break (because things always break)
-
-🤖 **Made an AI agent fast enough that it doesn't feel like an AI agent** — sub-2-second time-to-first-token, real-time streaming, no awkward "thinking..." spinner of doom
-
----
-
-## the toolbox
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+### ⚙️ the short version
+
+</div>
+
+I write code that's supposed to be boring — in the best way. No 3 AM pages, no "why is this query taking 4 seconds," no spaghetti only one person on the team understands. Just systems that quietly do their job and stay easy to extend.
+
+Lately that means building **AI agents trusted in production** — real queries, real data, with caching, retries, and observability done right underneath, not bolted on after a demo went viral.
+
+<br/>
+
+<div align="center">
+
+### 🛰️ things I've actually shipped
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🔌 one agent, zero hardcoding
+Replaced 25+ hardcoded API integrations with a single extensible AI agent — plain English → SQL, PDF retrieval, sandboxed spreadsheet analysis, all behind one swappable interface.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ p95 latency, -35%
+Multi-tenant analytics backend on FastAPI + MySQL read replicas + Redis. Stubborn about caching until the graphs behaved.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔧 ETL that doesn't ghost your data
+99.5% reliability syncing 25+ marketing platforms into Snowflake, with automatic recovery when things inevitably break.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 sub-2-second time-to-first-token
+Real-time streaming chat interface — no awkward "thinking..." spinner of doom.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🧬 the toolbox
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,fastapi,nodejs,express,react,nextjs,tailwind,aws,docker,postgres,mysql,mongodb,redis,git,githubactions&theme=dark&perline=9" />
 
 </div>
 
 <details>
-<summary><b>the deeper cuts (click if you're into that)</b></summary>
+<summary><b>🔍 the deeper cuts — click to expand</b></summary>
 <br>
 
-**AI & Agents:** AWS Bedrock, AWS AgentCore, Snowflake Cortex Analyst, Qdrant, Langfuse, Vercel AI SDK
-
-**Data & Pipelines:** Temporal.io, Airbyte, DBT, SQLAlchemy, Alembic, PgBouncer
-
-**Infra:** Lambda, API Gateway, Step Functions, CloudFormation, SQS/SNS/SES, GitHub Actions, Cognito
-
-**Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
-
-**Frontend:** Next.js, Zustand, shadcn/ui, Tailwind
+| Category | Stack |
+|---|---|
+| **🧠 AI & Agents** | AWS Bedrock, AWS AgentCore, Snowflake Cortex Analyst, Qdrant, Langfuse, Vercel AI SDK |
+| **🔄 Data & Pipelines** | Temporal.io, Airbyte, DBT, SQLAlchemy, Alembic, PgBouncer |
+| **☁️ Infra** | Lambda, API Gateway, Step Functions, CloudFormation, SQS/SNS/SES, GitHub Actions, Cognito |
+| **🗄️ Databases** | MySQL, PostgreSQL, MongoDB, DynamoDB, Snowflake |
+| **🎨 Frontend** | Next.js, Zustand, shadcn/ui, Tailwind |
 
 </details>
 
 ---
 
-## a philosophy, if you're still reading
+<div align="center">
 
-Most of what I build comes down to one question: **what happens when this needs to change?**
+### 📡 the numbers GitHub keeps track of
 
-New platform to integrate? New data source? New edge case nobody thought of? If the answer involves rewriting core logic, the design was wrong. So I lean hard into dependency inversion, swappable contracts, and single-responsibility everything — boring principles that make the difference between a system that grows gracefully and one that needs a rewrite every quarter.
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijeetAayush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetAayush&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetAayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijeetAayush&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetAayush&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-📫 **abhijeetayush899@gmail.com** · [LinkedIn](https://www.linkedin.com/in/abhijeetaayush) · [Twitter](https://twitter.com/AbhijeetAayush)
+### 🧭 a philosophy, if you're still reading
 
-*if you're building something that involves AI agents actually working in production, let's talk*
+</div>
 
-⭐ **starring my repos makes my CI pipelines pass faster (citation needed)**
+Most of what I build comes down to one question: **what happens when this needs to change?**
+
+New platform to integrate? New data source? New edge case nobody thought of? If the answer involves rewriting core logic, the design was wrong. So I lean hard into dependency inversion, swappable contracts, and single-responsibility everything — boring principles that separate systems that grow gracefully from ones that need a rewrite every quarter.
+
+---
+
+<div align="center">
+
+### 📫 let's talk
+
+if you're building something where AI agents actually have to *work* in production — not just demo well — I'm in.
+
+<a href="https://www.linkedin.com/in/abhijeetaayush"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhijeetayush899@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐ **starring my repos makes my CI pipelines pass faster** *(citation needed)*
+
+<img src="https://komarev.com/ghpvc/?username=AbhijeetAayush&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12&height=120&section=footer" width="100%"/>
 
 </div>
