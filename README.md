@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=ABHIJEET%20AAYUSH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%20backend%20engineer%20%2F%2F%20AI%20agent%20architect%20%3E&descAlignY=55&descSize=18" width="100%"/>
+# ⚡ ABHIJEET AAYUSH
+
+### `< backend engineer // AI agent architect >`
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -109,26 +111,6 @@ Real-time streaming chat interface — no awkward "thinking..." spinner of doom.
 
 <div align="center">
 
-### 📡 the numbers GitHub keeps track of
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhijeetAayush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetAayush&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetAayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijeetAayush&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetAayush&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🧭 a philosophy, if you're still reading
 
 </div>
@@ -153,9 +135,5 @@ if you're building something where AI agents actually have to *work* in producti
 ⭐ **starring my repos makes my CI pipelines pass faster** *(citation needed)*
 
 <img src="https://komarev.com/ghpvc/?username=AbhijeetAayush&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12&height=120&section=footer" width="100%"/>
 
 </div>
