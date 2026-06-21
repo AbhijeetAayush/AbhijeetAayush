@@ -10,6 +10,13 @@
 <a href="https://twitter.com/AbhijeetAayush"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:abhijeetayush899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/status-shipping_bugs_as_features-39FF14?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/powered_by-coffee_%26_stack_overflow-FFA500?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/uptime-99.9%25-00FFFF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/open_to-interesting_problems-FF00FF?style=flat-square&labelColor=0D1117"/>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=sudo+make+backends+great+again;teaching+AI+agents+to+talk+to+25%2B+platforms;temporal+workflow+stuck+in+%22pending%22...+again;git+commit+-m+%22it+works+on+my+machine%22;dependency+inversion+enjoyer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -19,17 +26,19 @@
 <br/>
 
 ```ascii
-   ┌─────────────────────────────────────────────────────┐
-   │  $ whoami                                            │
-   │  > backend engineer, allergic to 3AM pages           │
-   │                                                       │
-   │  $ cat current_focus.txt                             │
-   │  > production-grade AI agents that don't fall over   │
-   │  > under real traffic, real data, real edge cases     │
-   │                                                       │
-   │  $ ./run_tests.sh                                     │
-   │  > 99.9% uptime ✓  p95 latency -35% ✓  no regrets ✓   │
-   └─────────────────────────────────────────────────────┘
+  ╔═══════════════════════════════════════════════════════╗
+  ║  abhijeet@backend ~ %  neofetch                        ║
+  ╠═══════════════════════════════════════════════════════╣
+  ║                                                         ║
+  ║      .--.        OS: Production (uptime: 99.9%)         ║
+  ║     |o_o |        Shell: FastAPI + asyncio               ║
+  ║     |:_/ |        Stack: Python · TypeScript · AWS        ║
+  ║    //   \ \       Memory: Redis cache-aside, 0 leaks       ║
+  ║   (|     | )      CPU: distracted by Temporal workflows     ║
+  ║  /'\_   _/`\      Theme: dark, always dark                  ║
+  ║  \___)=(___/      Uptime joke: 3 yrs no sleep, system fine  ║
+  ║                                                         ║
+  ╚═══════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -92,6 +101,18 @@ Real-time streaming chat interface — no awkward "thinking..." spinner of doom.
 <img src="https://skillicons.dev/icons?i=py,ts,js,java,fastapi,nodejs,express,react,nextjs,tailwind,aws,docker,postgres,mysql,mongodb,redis,git,githubactions&theme=dark&perline=9" />
 
 </div>
+
+<br/>
+
+```python
+# how I rate myself, roughly
+class Abhijeet:
+    backend_systems   = "█████████░"  # 90%
+    ai_agent_design   = "████████░░"  # 80%
+    cloud_infra       = "████████░░"  # 80%
+    frontend          = "██████░░░░"  # 60%
+    sleep_schedule    = "██░░░░░░░░"  # 20%, working on it
+```
 
 <details>
 <summary><b>🔍 the deeper cuts — click to expand</b></summary>
